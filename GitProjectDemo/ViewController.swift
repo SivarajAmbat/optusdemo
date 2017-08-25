@@ -16,6 +16,8 @@ class ViewController: UIViewController {
         
         print("Some code is added here")
         
+        print("This is a new feature in beta")
+        
     }
 
     override func didReceiveMemoryWarning() {
